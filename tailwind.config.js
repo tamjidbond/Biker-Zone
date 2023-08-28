@@ -5,7 +5,7 @@ module.exports = {
       extend: {
         colors: {
                 clifford: '#E76F51',
-                tamjid: '#E76F51'
+                'tamjid': '#E76F51'
               }
       },
     },
